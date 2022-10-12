@@ -6,7 +6,7 @@ const db = mysql.createPool({
     host: "localhost",    // 主机地址
     port: 3306,                 // 端口
     user: "root",               // 数据库访问账号
-    password: "mhb0707520",         // 数据库访问密码
+    password: "***",         // 数据库访问密码
     database:'my_db_01',       // 要访问的数据库
     charset: "UTF8_GENERAL_CI", // 字符编码 ( 必须大写 )
     typeCast: true,             // 是否把结果值转换为原生的 javascript 类型

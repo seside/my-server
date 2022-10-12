@@ -1,4 +1,4 @@
-// 导入express模块
+// 导入 express模块
 const express = require('express')
 // 导入配置文件
 const config = require('./config')
